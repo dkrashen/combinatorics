@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h3>Homework</h3>
+{% for h in site.data.homework %}
+<div class="row well well-sm">
+	<div class="col-md-9">
+	  <b>{{ h.title }}</b>: due {{ h.due }} <br />
+    {{ h.description }}
+	</div>
+</div>
+{% endfor %}
+
+
