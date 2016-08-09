@@ -21,6 +21,9 @@ The class format will consist primarily of in-class problem solving, individuall
  - in class quizzes: 50%
  - attendance and class participation: 20% 
  - final project: 10%
+ - that's all
+ 
+students enrolled in the graduate version of the course (4670/6670) will be assigned additional problems at a more advanced level.
 
 <br />
 **Academic Honesty**   As a University of Georgia student, you have agreed to abide by the Universitys academic honesty policy, A Culture of Honesty, and the Student Honor Code. All academic work must meet the standards described in A Culture of Honesty found at: www.uga.edu/honesty. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the instructor.<br />*The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.*
