@@ -17,10 +17,10 @@ image_link: ""
 image_src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Set_partitions_5%3B_circles.svg/2000px-Set_partitions_5%3B_circles.svg.png"
 baseurl: "/combinatorics"
 
-url: "localhost:4000"
-# url: "http://dkrashen.org"
+#url: "localhost:4000"
+url: "http://dkrashen.org"
 
-analytics_id: "UA-74503807-1"
+analytics_id: "UA-74503807-2"
 analytics: "true"
 
 # Build settings
