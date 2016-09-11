@@ -8,6 +8,13 @@ layout: default
 	<div class="col-md-9">
 	  <b>{{ h.title }}</b>: due {{ h.due }} <br />
     {{ h.description }}
+    {% if h.formlink %} <br /> <br />
+    Complete the form below to verify completion of the homework
+    assignement by the due date! <br />
+    <a href="{{ h.formlink }}" target = "{{ h.title }}">
+      <button>Open Homework Form</button>
+    </a>
+    {% endif %}
 	</div>
 </div>
 {% endfor %}
