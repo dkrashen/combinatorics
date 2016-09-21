@@ -15,6 +15,18 @@ layout: default
       <button>Open Homework Form</button>
     </a>
     {% endif %}
+    {% if h.newformlink %} <br /> <br />
+    To complete this assignment, you need to both do the written work, to
+    be handed in in class on the due date, as well as complete this form by
+    the morning of the due date at 9am. If you haven't completed the full
+    assignment before that morning, you should still fill out the form. You
+    can indicate which problems you have and have not completed on the form
+    at this time.
+    <br />
+    <a href="{{ h.newformlink }}" target = "{{ h.title }}">
+      <button>Open Homework Form</button>
+    </a>
+    {% endif %}
 	</div>
 </div>
 {% endfor %}
