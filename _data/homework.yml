@@ -63,10 +63,12 @@
   description: "Bogart, problem 146, 147, 148."
   due: "Friday, September 30"
   newformlink: "https://docs.google.com/forms/d/e/1FAIpQLSc36NK-yvwRdyzHfFQ8C_LFvu_aX0c9ZuiAN7hkMl-XF4Ifbw/viewform"
+
 - title: "Homework 19"
   description: "Bogart, problem 157, 158."
   due: "Monday, October 3"
-  newformlink:"https://docs.google.com/forms/d/e/1FAIpQLSd8WMU_ctCk49SREToEFKB-n-aVkhXdzmrHdEJNg3_Bch978g/viewform"
+  newformlink: "https://docs.google.com/forms/d/e/1FAIpQLSd8WMU_ctCk49SREToEFKB-n-aVkhXdzmrHdEJNg3_Bch978g/viewform"
+  
 - title: "Homework 20"
   description: "Bogart, problem 159, 161 (do carefully, but don't hand in),
   162."
