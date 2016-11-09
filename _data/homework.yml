@@ -124,3 +124,15 @@
   description: "Bogart, problem 231."
   due: "Monday, November 7"
   newformlink: "https://docs.google.com/forms/d/e/1FAIpQLScY33N2aWU-_0rXrQL1h_BiifbSmaJyswTUeV_WmlHPhumapw/viewform"
+- title: "Final Project Proposal"
+  description: "As described in the syllabus, 10/% of your grade in the
+  course is based on a final project. This project is somewhat open ended,
+  and can consist of mathematical exposition (description of a problem or
+  concept, giving relevant definitions, then giving a proof of a result),
+  or could be code implementing an algorithm related to combinatorics
+  (description of a problem, providing well commented code with
+  installation instructions, and a modifiable test data file on which it
+  would run)"
+  due: "Proposals due by Wednesday, November 16. Complete drafts due by
+  Wednesday, November 30. Revisions due by Monday, December 5"
+  newformlink: "https://docs.google.com/forms/d/e/1FAIpQLSdlRV2uMmmqhEBcbk761cmR3pstu5Zq_7nnjgPri9V08jBbiQ/viewform"
