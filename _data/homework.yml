@@ -125,10 +125,17 @@
   due: "Monday, November 7"
   newformlink: "https://docs.google.com/forms/d/e/1FAIpQLScY33N2aWU-_0rXrQL1h_BiifbSmaJyswTUeV_WmlHPhumapw/viewform"
 - title: "Homework 33"
-  description: "Bogart, Supplimental problem 4 on page 112 (124 in pdf) --
+  description: "Bogart, Supplemental problem 4 on page 112 (124 in pdf) --
   don't forget to use inclusion-exclusion!"
   due: "Friday, November 11"
   newformlink: "https://docs.google.com/forms/d/e/1FAIpQLSfB3DmMtaInZFlL0khxxw-I3cbJzOIGnZDCgL034EN31P9Czw/viewform"
+- title: "Homework 34"
+  description: "Start working on Bogart, section 3.3.5, supplementary problem 1
+  (should look somewhat familiar), and also complete the quiz handed out in class Friday (see link
+  below)"
+  due: "Monday, November 14"
+  hwlink: "quiz9.pdf"
+  newformlink: ""
 - title: "Final Project Proposal"
   description: "As described in the syllabus, 10/% of your grade in the
   course is based on a final project. This project is somewhat open ended,
@@ -141,3 +148,13 @@
   due: "(Proposals by Wednesday, November 16; Complete drafts by
   Wednesday, November 30; Revisions by Monday, December 5)"
   newformlink: "https://docs.google.com/forms/d/e/1FAIpQLSdlRV2uMmmqhEBcbk761cmR3pstu5Zq_7nnjgPri9V08jBbiQ/viewform"
+
+- title: "Homework 35"
+  description: "Bogart, section 3.3.5, supplemental problem 3"
+  due: "Wednesday, November 16"
+  newformlink: ""
+
+- title: "Homework 36"
+  description: "Bogart, section 3.3.5, supplemental problem 2"
+  due: "Friday, November 18"
+  newformlink: ""

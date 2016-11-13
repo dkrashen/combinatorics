@@ -15,6 +15,9 @@ layout: default
       <button>Open Homework Form</button>
     </a>
     {% endif %}
+    {% if h.hwlink %} <br /> <br />
+    <a href="{{ site.baseurl }}/hw/{{ h.hwlink }}">homework link</a>
+    {% endif %}
     {% if h.newformlink %} <br /> <br />
     To complete this assignment, you need to both do the written work, to
     be handed in in class on the due date, as well as complete this form by
